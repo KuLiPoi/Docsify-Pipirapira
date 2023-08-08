@@ -1,31 +1,16 @@
-# Docsify Template
+# Personal Docs
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+> 一个私人的文档库 存点笔记什么的 
 
-## Site Setup
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
 
-### GitHub Pages
+使用 Docsify 搭建 ，教程可参考 [SegmentFault](https://segmentfault.com/a/1190000017576714)
 
-#### Hosting Site
+如果你想交流点什么，欢迎前往我的[博客](https://kulipoi.com)
 
-To host this template on GitHub Pages do the following:  
+如果我的笔记对于在学习路上的你有点帮助，那真是我的荣幸!
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
 
-#### Editing Content
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+**很多东西都是随着学习的进度进行补充 如果你觉得我说的不对 以你为准**
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
-
-## Docsify Documentation
-
-To learn more about using Docsify, visit https://docsify.js.org.
